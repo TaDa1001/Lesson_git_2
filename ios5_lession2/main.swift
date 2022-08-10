@@ -12,3 +12,7 @@ class Person {
     var name: String?
 }
 
+//Hoc buoi 2
+class Person {
+    var name: String?
+}
