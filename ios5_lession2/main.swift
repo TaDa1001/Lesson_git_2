@@ -7,5 +7,8 @@
 
 import Foundation
 
-print("Hello, World!")
+//Hoc buoi 1
+class Person {
+    var name: String?
+}
 
